@@ -1,0 +1,7 @@
+var vs let vs const
+
+var: dont respect block scope  + declare viriable
+
+let: respect block scope + can't declare
+
+const: respect block scope + can't declare + can't change value
