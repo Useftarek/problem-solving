@@ -11,7 +11,12 @@
 
 // -2
 
-
+// let text =+prompt('Check the number of characters in text'); 
+// if (text.length > 100) {
+//     alert("string is long");
+// } else {
+//     alert("string is short");
+// }
 
 
 // -3
@@ -30,7 +35,13 @@
 
 // -4
 
+// let day =+prompt('check the day')
 
+// if (day === "Saturday") {
+//     alert("It's the weekend");
+// } else {
+//     alert("It's a work day");
+// }
 
 // -5
 
@@ -48,12 +59,12 @@
 
 // let verifying = +prompt('Verfing Academic')
 
-// if (verifying > 80) {
+// if (verifying >= 80) {
 //     alert("A")
-// } else if (verifying > 70) {
+// } else if (verifying >= 70) {
 //     alert('C')
 // } 
-// else if (verifying > 60) {
+// else if (verifying >= 60) {
 //     alert('D')
 // } 
 // else {
@@ -61,7 +72,9 @@
 // }
 
 
+
 // 7-
+
 
 // let temperature =+prompt('Check Temperature temp')
 
