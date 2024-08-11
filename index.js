@@ -57,20 +57,20 @@
 
 // -6
 
-let grade = prompt("enter grade");
+// let grade = prompt("enter grade");
 
 
-if (grade < 50) {
-    alert("F");
-} else if (grade >= 60 && grade < 70) {
-    alert("D");
-} else if (grade >= 70 && grade < 80) {
-    alert("C");
-} else if (grade >= 80 && grade <= 90) {
-    alert("B");
-} else if (grade > 80) {
-    alert("A");
-}
+// if (grade < 50) {
+//     alert("F");
+// } else if (grade >= 60 && grade < 70) {
+//     alert("D");
+// } else if (grade >= 70 && grade < 80) {
+//     alert("C");
+// } else if (grade >= 80 && grade <= 90) {
+//     alert("B");
+// } else if (grade > 90) {
+//     alert("A");
+// }
 
 
 
@@ -98,7 +98,7 @@ if (grade < 50) {
 // }
 
 
-// 9
+// 9-
 
 // let num =+prompt('Check Num odd or even');
 // let betterthan =prompt('check age');
