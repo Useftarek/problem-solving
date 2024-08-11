@@ -57,19 +57,20 @@
 
 // -6
 
-// let verifying = +prompt('Verfing Academic')
+let grade = prompt("enter grade");
 
-// if (verifying >= 80) {
-//     alert("A")
-// } else if (verifying >= 70) {
-//     alert('C')
-// } 
-// else if (verifying >= 60) {
-//     alert('D')
-// } 
-// else {
-//     alert ('F')
-// }
+
+if (grade < 50) {
+    alert("F");
+} else if (grade >= 60 && grade < 70) {
+    alert("D");
+} else if (grade >= 70 && grade < 80) {
+    alert("C");
+} else if (grade >= 80 && grade <= 90) {
+    alert("B");
+} else if (grade > 80) {
+    alert("A");
+}
 
 
 
